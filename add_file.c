@@ -1,1 +1,2 @@
-This is my add another file.
+
+This is git add lines.
