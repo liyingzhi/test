@@ -5,7 +5,7 @@ This is my add another file.
 
 ## git push test!
 
-$ x=\sqrt{x+z} $ 
+$x=\sqrt{y+x}$
 
 The next step is commit
 
