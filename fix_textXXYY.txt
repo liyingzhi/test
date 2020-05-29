@@ -3,5 +3,3 @@ fix_testXXYY.txt file
 
 kkkkkkk
 
-
-aaaa
